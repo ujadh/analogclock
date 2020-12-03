@@ -1,0 +1,42 @@
+#container{  
+    position: relative;
+    margin: auto;
+    height: 40vw;
+    width: 40vw; 
+    background: url(download.png) no-repeat;
+    background-size: 100%;
+}
+
+#hour, #minute, #second{
+    position: absolute;
+    background: black;
+    border-radius: 10px; 
+    transform-origin: bottom;
+}
+#hour{
+    width: 1.2%;
+    height: 13%;
+    top: 29%;
+    left: 49.5%;
+    background-color: purple;
+    
+}
+#minute{
+    width: 1.1%;
+    height: 22%;
+    top: 20%;
+    left: 49%;
+    
+    background-color:green;
+    
+    
+}
+#second{
+    width: 1%;
+    height: 25%;
+    top: 17%;
+    left: 49.5%;
+  
+    
+    
+}
