@@ -18,14 +18,14 @@ If you are wondering what was original text in document you can allways find the
 
 >*Let's describe briefly the product/service/software solution, a little background and essentially related things? If you are doing exercise please check if you can use existing stakeholders real names! Otherwise, all names will be changed to self-invented pseudo names* -->
 
-### Forum Service for WIMMA Lab
+### Forum Service for Wimma Capstone
 **Description:**
 
-The Forum Service for WIMMA Lab is a cutting-edge online collaboration platform developed by CodeMinds Ltd. This service is designed to seamlessly integrate with WIMMA Lab's educational platform, creating a dynamic hub for students, educators, and enthusiasts. The forum service goes beyond traditional discussion platforms, offering innovative features to enhance user engagement and knowledge sharing.
+The Forum Service for Wimma Capstone is a cutting-edge online collaboration platform developed by CodeMinds Ltd. This service is designed to seamlessly integrate with Wimma Capstone's educational platform, creating a dynamic hub for students, educators, and enthusiasts. The forum service goes beyond traditional discussion platforms, offering innovative features to enhance user engagement and knowledge sharing.
 
 **1. User-Centric Experience:**
 - Intuitively designed forum for diverse user needs.
-- Fosters connection and knowledge sharing among the WIMMA Lab community.
+- Fosters connection and knowledge sharing among the Wimma Capstone community.
 
 **2. Innovative Collaboration:**
 - Real-time collaboration tools for dynamic discussions.
@@ -45,7 +45,7 @@ The Forum Service for WIMMA Lab is a cutting-edge online collaboration platform 
 
 **Background:**
 
-WIMMA Lab, an educational project platform, recognized the need to enhance its online learning experience and collaboration. In response to this, CodeMinds took on the responsibility of developing a forum service tailored to WIMMA Lab's unique requirements. The project aimed to adapt educational platforms for remote work, aligning with the evolving landscape of online learning.
+Wimma Capstone, an educational project platform, recognized the need to enhance its online learning experience and collaboration. In response to this, CodeMinds took on the responsibility of developing a forum service tailored to Wimma Capstone's unique requirements. The project aimed to adapt educational platforms for remote work, aligning with the evolving landscape of online learning.
 
 **TTOS2070 Guideline Alignment:**
 
@@ -53,11 +53,11 @@ The project aligns with the TTOS2070 Guideline of the Institute of Jyväskylä U
 
 **Industry Impact:**
 
-WIMMA Lab, fueled by CodeMinds' forum service, emerges as an industry leader, setting the standard for effective online collaboration and learning. The collaborative effort showcases the potential of tailored solutions in the competitive and dynamic educational technology industry.
+Wimma Capstone, fueled by CodeMinds' forum service, emerges as an industry leader, setting the standard for effective online collaboration and learning. The collaborative effort showcases the potential of tailored solutions in the competitive and dynamic educational technology industry.
 
 **Conclusion:**
 
-The Forum Service for WIMMA Lab represents a milestone in delivering a customized solution that meets the specific needs of an educational project. This product not only enhances the learning experience for WIMMA Lab users but also positions both CodeMinds and WIMMA Lab as innovators in the field of remote education.
+The Forum Service for Wimma Capstone represents a milestone in delivering a customized solution that meets the specific needs of an educational project. This product not only enhances the learning experience for Wimma Capstone users but also positions both CodeMinds and Wimma Capstone as innovators in the field of remote education.
 
 ## Focus Group 
 
@@ -65,10 +65,10 @@ The Forum Service for WIMMA Lab represents a milestone in delivering a customize
 
 >*For whom is the solution / service being developed for? It is worth of briefly highlight the potential end users and the relevant stakeholders who will benefit or have interest on the service* -->
 
-The focus group aims to gather feedback and insights from students using the forum service integrated into WIMMA Lab's educational platform. The goal is to understand their experiences, preferences, and suggestions for improvement.
+The focus group aims to gather feedback and insights from students using the forum service integrated into Wimma Capstone's educational platform. The goal is to understand their experiences, preferences, and suggestions for improvement.
 
 ### Focus Group A (STUDENTS)
-The project to develop a forum service for WIMMA Lab, spearheaded by CodeMinds Ltd, offers several potential benefits for students. Here are some ways in which the project could enhance the educational experience for students:
+The project to develop a forum service for Wimma Capstone, spearheaded by CodeMinds Ltd, offers several potential benefits for students. Here are some ways in which the project could enhance the educational experience for students:
 
 **Collaborative Learning:**
 - The forum service creates a platform for collaborative learning, allowing students to engage in discussions, share ideas, and collaborate on projects. This fosters a sense of community and collective knowledge building.
@@ -77,7 +77,7 @@ The project to develop a forum service for WIMMA Lab, spearheaded by CodeMinds L
 - The forum service introduces innovative features that go beyond traditional discussion platforms. These features, such as real-time collaboration tools and interactive multimedia integration, make learning more dynamic and engaging for students.
 
 **Access Anytime, Anywhere:**
-- The forum service, seamlessly integrated into WIMMA Lab's platform, allows students to access educational discussions and resources anytime, anywhere. This supports remote learning and provides flexibility for students with varying schedules.
+- The forum service, seamlessly integrated into Wimma Capstone's platform, allows students to access educational discussions and resources anytime, anywhere. This supports remote learning and provides flexibility for students with varying schedules.
 
 **Contribution to Industry Standards:**
 - By aligning with the TTOS2070 Guideline of the Institute of Jyväskylä University of Applied Sciences, the project ensures that students are exposed to contemporary approaches in software development and project management, preparing them for industry standards.
@@ -93,9 +93,9 @@ The project to develop a forum service for WIMMA Lab, spearheaded by CodeMinds L
 **Networking Opportunities:**
 - The forum serves as a networking hub, enabling everyone to connect with fellow learners and professionals. This networking can lead to valuable opportunities, including mentorship, collaborative projects, and industry connections.
 
-### Focus Group C (WIMMA Lab)
-* WIMMA Lab, as a focus group, serves as a representative sample of key stakeholders, including educators, administrators, and potentially students. The purpose is to gather comprehensive feedback, align project goals with WIMMA Lab's mission, and ensure the forum service meets the unique needs of the educational platform.
-* Collaboratively explore how the forum service, when integrated, can contribute to WIMMA Lab's strategic position as an industry leader in educational project platforms.
+### Focus Group C (Wimma Capstone)
+* Wimma Capstone, as a focus group, serves as a representative sample of key stakeholders, including educators, administrators, and potentially students. The purpose is to gather comprehensive feedback, align project goals with Wimma Capstone's mission, and ensure the forum service meets the unique needs of the educational platform.
+* Collaboratively explore how the forum service, when integrated, can contribute to Wimma Capstone's strategic position as an industry leader in educational project platforms.
 
 ## Stakeholder map
 
@@ -121,15 +121,15 @@ The project to develop a forum service for WIMMA Lab, spearheaded by CodeMinds L
 +++ Designer Team 
 ++++ Purho "Grapizza" Kekkonen (Graphic Design/UX)
 ++++ Maija Keskinen (Service Design )
--- WIMMA Lab
+-- Wimma Capstone
 --- Student
 ---- Veeti Hakala (Student Coach)
 ---- Other students
 --- Partnerts
 ---- Paavo N. (Technical Architect)
 ---- Other Partners
---- WIMMA Lab Educators
----- Marko "Narsu" Rintamäki (WIMMA Lab Founder)
+--- Wimma Capstone Educators
+---- Marko "Narsu" Rintamäki (Wimma Capstone Founder)
 ---- Other Educators
 @endmindmap
 ```
@@ -180,7 +180,7 @@ Due to this, the description has to be refined and specified and, if necessary, 
 <!-- | SR-004 | [Stakeholder - Tax Collector]() | Tax man | Collect taxes | -->
 
 ## Customer journey paths related to the service
-Customer journey paths are the routes that users take when interacting with a service. For the CodeMinds project, developing a forum service for WIMMA Lab, here are potential customer journey paths:
+Customer journey paths are the routes that users take when interacting with a service. For the CodeMinds project, developing a forum service for Wimma Capstone, here are potential customer journey paths:
 
 <!-- >Consider the assignment and consider whether its use involves any general events, for example before or after use. How is the service / solution implemented and how is it used as part of the service paths?
 >Case description describes a series of events that are performed in a selected situation during the use of the service. There may be several different customer-specific service paths, but the most important thing is to identify the most important ones at the beginning.
@@ -222,7 +222,7 @@ Step13: The customer leaves the store and a product remains in store
 
 ```plantuml
 Step1: Users discover the forum service through social media posts.
-Step2: Users discover the forum service through the WIMMA Lab website.
+Step2: Users discover the forum service through the Wimma Capstone website.
 Step3: They learn about the features and benefits of the forum service.
 Step4: Potential user ignores.
 Step5: Users click on the "Sign Up" button on the forum service page.
@@ -615,11 +615,11 @@ These connections are called Traceablity.
 >* *Customer Need CUST001* -> *Feature FEA001* --> 
 
 **Business Objective:**
-- **Objective:** Expand WIMMA Lab's user base and adapt education platforms for remote work and online learning.
+- **Objective:** Expand Wimma Capstone's user base and adapt education platforms for remote work and online learning.
 - **Traceability:** This objective traces to the high-level business requirement of developing a forum service.
 
 **High-Level Business Requirement:**
-- **Objective:** Develop a forum service for seamless integration into WIMMA Lab's website.
+- **Objective:** Develop a forum service for seamless integration into Wimma Capstone's website.
 - **Traceability:** Traced to user requirements for the forum service.
 
 **User Requirement:**
@@ -643,7 +643,7 @@ These connections are called Traceablity.
 - **Traceability:** Traced back to system requirements and forward to the deployment phase.
 
 **Deployment:**
-- **Objective:** Integrate the forum service seamlessly into WIMMA Lab's website.
+- **Objective:** Integrate the forum service seamlessly into Wimma Capstone's website.
 - **Traceability:** Traced back to the implementation phase and forward to ongoing support.
 
 **Ongoing Support:**
